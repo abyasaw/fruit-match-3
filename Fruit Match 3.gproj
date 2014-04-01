@@ -1,0 +1,107 @@
+<project>
+ <properties autorotation="0" encryptAssets="0" fps="60" scaleMode="5" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="800" logicalWidth="480" mouseTouchOrder="0" encryptCode="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales>
+   <scale suffix="@2x" scale="2"/>
+  </imageScales>
+ </properties>
+ <folder name="asset">
+  <folder name="images">
+   <file source="asset/images/watermelon.png"/>
+   <file source="asset/images/timer_field.png"/>
+   <file source="asset/images/timer.png"/>
+   <file source="asset/images/strawberry.png"/>
+   <file source="asset/images/sparkle4.png"/>
+   <file source="asset/images/sparkle3.png"/>
+   <file source="asset/images/sparkle2.png"/>
+   <file source="asset/images/sparkle1.png"/>
+   <file source="asset/images/shoppingbasket.png"/>
+   <file source="asset/images/score_field.png"/>
+   <file source="asset/images/pineapple.png"/>
+   <file source="asset/images/pause_field.png"/>
+   <file source="asset/images/papaya.png"/>
+   <file source="asset/images/orange-water-splash-th.png"/>
+   <file source="asset/images/lvl10@2x.png"/>
+   <file source="asset/images/lvl10.png"/>
+   <file source="asset/images/lvl9@2x.png"/>
+   <file source="asset/images/lvl9.png"/>
+   <file source="asset/images/lvl8@2x.png"/>
+   <file source="asset/images/lvl8.png"/>
+   <file source="asset/images/lvl7@2x.png"/>
+   <file source="asset/images/lvl7.png"/>
+   <file source="asset/images/lvl6@2x.png"/>
+   <file source="asset/images/lvl6.png"/>
+   <file source="asset/images/lvl5@2x.png"/>
+   <file source="asset/images/lvl5.png"/>
+   <file source="asset/images/lvl4@2x.png"/>
+   <file source="asset/images/lvl4.png"/>
+   <file source="asset/images/lvl3@2x.png"/>
+   <file source="asset/images/lvl3.png"/>
+   <file source="asset/images/lvl2@2x.png"/>
+   <file source="asset/images/lvl2.png"/>
+   <file source="asset/images/lvl1@2x.png"/>
+   <file source="asset/images/lvl1.png"/>
+   <file source="asset/images/lock-icon.png"/>
+   <file source="asset/images/grape.png"/>
+   <file source="asset/images/bonus_fruits.png"/>
+   <file source="asset/images/banana.png"/>
+   <file source="asset/images/apple.png"/>
+  </folder>
+  <folder name="background">
+   <file source="asset/background/mainmenu_background.png"/>
+   <file source="asset/background/bg_optionmenu.png"/>
+   <file source="asset/background/bg_lvlselect.png"/>
+   <file source="asset/background/bg_lvl1.png"/>
+  </folder>
+  <folder name="button">
+   <file source="asset/button/sound_on.png"/>
+   <file source="asset/button/sound_off.png"/>
+   <file source="asset/button/resume.png"/>
+   <file source="asset/button/play_button.png"/>
+   <file source="asset/button/pause.png"/>
+   <file source="asset/button/option_button.png"/>
+   <file source="asset/button/menu.png"/>
+   <file source="asset/button/lvl_button.png"/>
+   <file source="asset/button/about.png"/>
+  </folder>
+  <folder name="font">
+   <file source="asset/font/BADABB__.TTF"/>
+  </folder>
+  <folder name="text">
+   <file source="asset/text/perfect.png"/>
+   <file source="asset/text/Nice.png"/>
+   <file source="asset/text/good.png"/>
+  </folder>
+  <file source="asset/texturepack.png"/>
+  <file source="asset/texturepack.txt"/>
+ </folder>
+ <folder name="audio">
+  <file source="audio/main.mp3"/>
+  <file source="audio/hit.wav"/>
+  <file source="audio/complete.mp3"/>
+ </folder>
+ <folder name="class">
+  <file source="fruit.lua"/>
+  <file source="obstacle.lua"/>
+ </folder>
+ <folder name="lib">
+  <file source="lib/button.lua"/>
+  <file source="lib/dataSaver.lua"/>
+  <file source="lib/easing.lua"/>
+  <file source="lib/gtween.lua"/>
+  <file source="lib/json.lua"/>
+  <file source="lib/scenemanager.lua"/>
+  <file source="lib/View.lua"/>
+  <file source="lib/Settings.lua"/>
+ </folder>
+ <folder name="scene">
+  <file source="scene/credit.lua"/>
+  <file source="scene/settings.lua"/>
+  <file source="scene/result.lua"/>
+  <file source="scene/play.lua"/>
+  <file source="scene/level.lua"/>
+  <file source="scene/menu.lua"/>
+ </folder>
+ <file source="main.lua"/>
+ <file source="config.lua"/>
+ <file source="packs.json"/>
+</project>
